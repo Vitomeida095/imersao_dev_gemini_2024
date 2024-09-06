@@ -33,10 +33,11 @@ campoPesquisa = campoPesquisa.toLowerCase()
                 </div>
                 `;
             }
+    }
 if (!resultados){
     resultados = "<p> Que pena, nada foi encontrado! :( </p>"
 }
-        }
+        
        
     
     section.innerHTML = resultados;
