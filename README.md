@@ -1,4 +1,4 @@
-# Info Games Indie
+# Info Games Indie - Projeto realizado com a Alura e Google Gemini - Imersão Dev 2024
 
 **O que é isso?**
 Um site simples para pesquisar jogos indie! Você pode procurar por nome ou gênero.
